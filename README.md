@@ -1,4 +1,4 @@
-# Book Finder API 📚
+# Google Books API 📚
 
 **Book Finder API** is a FastAPI project that interacts with the **Google Books API**. It allows you to search for books, add them to your favorites, and retrieve detailed information about your favorite books.
 
